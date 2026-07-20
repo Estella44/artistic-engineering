@@ -1,0 +1,4 @@
+I started working with a hall sensor for the first time! To actually understand how it works, I did some research and decided to take on the most treacherous task in hardware: turning on an LED. First, I wired the arduino
+up with the sensor and an LED, seems simple enough right? WRONG! But we will get to that later. I then copied and pasted some code from a tutorial to save myself some time and anguish (perhaps I should have paid attention 
+to whether the code I'm using uses analog or digital output.....) Surprise, surprise, the LED didn't turn on when I brought the magnet near the sensor. I was using the digital outpin pin while the code was using the analog
+output pin. I ended up going with the analog pin, as that's the one I want to use in my end project. After fixing the wiring, it finally worked!
