@@ -10,6 +10,8 @@ Following me actually finishing the circuit, I drew up a diagram of what I want 
 
 <img width="320" height="452" alt="583150ef-edda-4cee-9678-d37fddcf34f4" src="https://github.com/user-attachments/assets/5afd21dc-5b37-49d4-80a3-ba291eed023f" />
 
-Before I actually started the code, I crocheted the flower for the base artistic piece 
+Before I actually started the code, I crocheted the flower for the base artistic piece (this took around 2 hours in itself)
 
 <img width="240" height="320" alt="6a595563-1a9d-4fd7-a641-17e28b9f059d" src="https://github.com/user-attachments/assets/72936019-0edd-4669-b920-97979ac6fea6" />
+
+**Total time spent 3 Hours and 30 minutes** 
